@@ -21,19 +21,51 @@ Without prior written permission from Nico, you may not:
 * sell, sublicense, rent, monetize or commercially redistribute EdgeFlow;
 * modify EdgeFlow and publish it as your own application or project;
 * copy or substantially imitate EdgeFlow's specific interface, design, project structure, workflows or interaction system;
-* reproduce or publish EdgeFlow's specific product concept or feature combination in a way that copies the original implementation or presentation;
+* reproduce or publish EdgeFlow's specific feature combination or concrete implementation in a way that substantially copies the original project;
 * use EdgeFlow's source code, assets, text, graphics, branding or other original material in another project without permission;
 * create and distribute a substantially copied or derived version of EdgeFlow;
 * claim EdgeFlow, its implementation, design or original project content as your own work;
 * remove, hide or modify copyright, ownership or attribution notices.
 
-## Concepts and Ideas
+## Concepts, Ideas and CCCCorners
 
-The EdgeFlow concept, its screen-edge and corner interaction model, profile structure, activation areas, workflows, feature arrangement and other project ideas may not be copied, republished, marketed or presented as originating from another person without prior written permission from Nico, to the maximum extent permitted by applicable law.
+The general idea of triggering actions from screen corners or screen edges is not claimed as an invention of EdgeFlow.
 
-This license does not claim legal protection over abstract ideas, general methods or concepts where applicable law does not provide such protection.
+Similar concepts and applications existed before EdgeFlow. This includes projects such as **CCCCorners** and other tools using hot corners, screen edges or similar interaction methods.
 
-However, EdgeFlow's concrete expression and implementation of those ideas, including its source code, interface design, written descriptions, graphics, specific workflows, selection and arrangement of features and other original creative material, remain protected to the extent provided by applicable law.
+Similar concepts and applications existed before EdgeFlow.
+This includes CCCCorners and other tools using hot corners,
+screen edges or similar interaction methods.
+
+CCCCorners:
+https://apps.apple.com/de/app/ccccorners/id6754601983?mt=12
+EdgeFlow does not claim ownership over the general concept of:
+
+* hot corners;
+* screen-edge activation;
+* triggering actions by moving the pointer into an area;
+* customizable screen zones;
+* general mouse-based shortcut systems.
+
+These general ideas and methods may not be legally protectable by copyright on their own.
+
+EdgeFlow is instead an independent implementation and development of these types of concepts.
+
+The protection claimed by this license relates to EdgeFlow's own concrete implementation and original creative work, including, where applicable:
+
+* EdgeFlow's source code;
+* its specific user interface and visual design;
+* its custom area editor;
+* its specific workflows and interaction behavior;
+* its profile and configuration system;
+* its selection and arrangement of features;
+* its written descriptions and documentation;
+* its graphics, assets and branding;
+* and the particular combination and implementation of these elements.
+
+The existence of similar earlier software such as CCCCorners does not grant permission to copy EdgeFlow's own source code, design, assets or other protected material.
+
+Likewise, this license does not attempt to claim ownership over independent implementations created by other developers or over concepts that originated before EdgeFlow.
 
 ## Public Repository Notice
 
