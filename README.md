@@ -94,7 +94,7 @@ alt="Arrow Right"
 **EdgeFlow Download**
 
 <!-- Replace with your final EdgeFlow DMG link -->
-https://github.com/NicoT-111/EdgeFlow/releases
+[https://github.com/NicoT-111/EdgeFlow/releases](https://github.com/NicoT-111/EdgeFlow/releases/download/NicoT111/EdgeFlow.dmg)
 
 </td>
 
